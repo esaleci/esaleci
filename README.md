@@ -32,19 +32,19 @@ I'm a full-stack developer and solutions architect with a strong background in e
 
 ## 🚀 Featured Projects
 
-### 🔹 [UGC Creator Platform](https://ugc-platform-mocha.vercel.app)
+### 🔹 [UGC Creator Platform](https://github.com/esaleci/ugc-platform) | [View Demo](https://ugc-platform-mocha.vercel.app)
 A modern dashboard where brands connect with creators to collect and manage user-generated content. Built with Next.js and Tailwind CSS.
 
-### 🔹 [Email Marketing App](https://github.com/esaleci/email-marketing) | [Run Demo --> Login as White Demo User](https://email-marketing-one-indol.vercel.app)
+### 🔹 [Email Marketing App](https://github.com/esaleci/email-marketing) | [View Demo --> Login as White Demo User](https://email-marketing-one-indol.vercel.app)
 A minimal marketing tool for managing email campaigns, created using TypeScript and Next.js.
 
 ### 🔹 [Work Manager](https://github.com/esaleci/WorkManager)
 Time-tracking and work reporting system for managing tasks across multiple projects.
 
-### 🔹 [Auto Repair Booking System](https://github.com/esaleci/Auto-Repair.git)
+### 🔹 [Auto Repair Booking System](https://github.com/esaleci/Auto-Repair.git) | [View Demo](https://auto-repair-three.vercel.app)
 Basic full-stack booking system to manage auto service appointments.
 
-### 🔹[Property Management Portal](https://property-management-v0.vercel.app)
+### 🔹[Property Management Portal](https://github.com/esaleci/property-management-v0) | [View Demo](https://property-management-v0.vercel.app)
 A user-friendly platform for managing properties and tenants.
 
 ---
