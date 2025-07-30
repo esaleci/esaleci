@@ -57,7 +57,7 @@ Basic full-stack booking system to manage auto service appointments.
 
 ## 📫 Let's Connect
 
-- 💼 [Upwork Profile](#) <!-- https://www.upwork.com/freelancers/~01980326c775d228b5?mp_source=share -->
+- 💼 [Upwork Profile](#) https://www.upwork.com/freelancers/~01980326c775d228b5?mp_source=share
 - ✉️ Email: eliibar82@gmail.com | esaleci@gmail.com
 
 ---
