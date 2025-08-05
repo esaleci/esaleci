@@ -15,7 +15,6 @@ I'm a full-stack developer and solutions architect with a strong background in e
 
 - 🧩 **System Design & Architecture:**
   - ERP & Warehouse Management Systems
-  - IoT-based business solutions
   - API Integrations & Microservices
 
 - 💻 **Frontend Tools:**
