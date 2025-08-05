@@ -1,5 +1,5 @@
 # 👩‍💻 Eli Barnes | esaleci
-**Designing smart software for business: ERP, IoT, and modern web platforms** 🚀
+**Designing smart software for business: ERP, and modern web platforms** 🚀
 
 # 👋 Hi there, I'm Eli
 
