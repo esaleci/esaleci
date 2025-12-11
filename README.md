@@ -1,4 +1,4 @@
-# 👩‍💻 Eli Barnes | esaleci
+# 👩‍💻 Elahe Salesi | esaleci@gmail.com
 **Designing smart software for business: ERP, and modern web platforms** 🚀
 
 # 👋 Hi there, I'm Eli
