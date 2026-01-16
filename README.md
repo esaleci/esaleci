@@ -34,6 +34,9 @@ I'm a full-stack developer and solutions architect with a strong background in e
 ### 🔹 [UGC Creator Platform](https://github.com/esaleci/ugc-platform) | [View Demo](https://ugc-platform-mocha.vercel.app)
 A modern dashboard where brands connect with creators to collect and manage user-generated content. Built with Next.js and Tailwind CSS.
 
+### 🔹 [Smart Task Planner](https://github.com/esaleci/to-do-app) | [View Demo](https://to-do-app-beta-jade.vercel.app/)
+A time-aware task management app designed for real-world productivity. Built with Next.js, TypeScript, and Supabase.
+
 ### 🔹 [Email Marketing App](https://github.com/esaleci/email-marketing) | [View Demo --> Login as White Demo User](https://email-marketing-one-indol.vercel.app)
 A minimal marketing tool for managing email campaigns, created using TypeScript and Next.js.
 
